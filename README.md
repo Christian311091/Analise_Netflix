@@ -25,20 +25,16 @@ O notebook apresenta desde a etapa de tratamento até a visualização de inform
 
 ## ▶️ Como Executar
 Clone o repositório:
-
-```bash
 git clone https://github.com/Christian311091/Analise_Netflix.git
 cd Analise_Netflix
 
 Instale as dependências:
-
-```bash
 pip install pandas matplotlib seaborn plotly jupyter
 
 Abra o notebook:
-
-```bash
 jupyter notebook NetflixDF.ipynb
+
+---
 
 ## 🔎 Perguntas Respondidas
 
@@ -49,6 +45,8 @@ jupyter notebook NetflixDF.ipynb
 - **Qual a proporção entre filmes e séries?
 
 - **Há tendências de crescimento ou declínio em determinados tipos de conteúdo?
+
+---
 
 ## 🚀 Possíveis Melhorias
 
