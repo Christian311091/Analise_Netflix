@@ -25,6 +25,37 @@ O notebook apresenta desde a etapa de tratamento até a visualização de inform
 
 ## ▶️ Como Executar
 Clone o repositório:
+
 ```bash
 git clone https://github.com/Christian311091/Analise_Netflix.git
 cd Analise_Netflix
+
+Instale as dependências:
+
+```bash
+pip install pandas matplotlib seaborn plotly jupyter
+
+Abra o notebook:
+
+```bash
+jupyter notebook NetflixDF.ipynb
+
+## 🔎 Perguntas Respondidas
+
+- **Como o catálogo da Netflix evoluiu ao longo dos anos?
+
+- **Quais são os gêneros mais prevalentes?
+
+- **Qual a proporção entre filmes e séries?
+
+- **Há tendências de crescimento ou declínio em determinados tipos de conteúdo?
+
+## 🚀 Possíveis Melhorias
+
+- **Comparar Netflix com outras plataformas de streaming
+
+- **Criar dashboard interativo (Power BI, Streamlit ou Dash)
+
+- **Aplicar técnicas de machine learning para prever tendências de catálogo
+
+- **Incluir análises de avaliações e popularidade de títulos
