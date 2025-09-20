@@ -38,22 +38,22 @@ jupyter notebook NetflixDF.ipynb
 
 ## 🔎 Perguntas Respondidas
 
-- **Como o catálogo da Netflix evoluiu ao longo dos anos?
+- Como o catálogo da Netflix evoluiu ao longo dos anos?
 
-- **Quais são os gêneros mais prevalentes?
+- Quais são os gêneros mais prevalentes?
 
-- **Qual a proporção entre filmes e séries?
+- Qual a proporção entre filmes e séries?
 
-- **Há tendências de crescimento ou declínio em determinados tipos de conteúdo?
+- Há tendências de crescimento ou declínio em determinados tipos de conteúdo?
 
 ---
 
 ## 🚀 Possíveis Melhorias
 
-- **Comparar Netflix com outras plataformas de streaming
+- Comparar Netflix com outras plataformas de streaming
 
-- **Criar dashboard interativo (Power BI, Streamlit ou Dash)
+- Criar **dashboard interativo** (Power BI, Streamlit ou Dash)
 
-- **Aplicar técnicas de machine learning para prever tendências de catálogo
+- Aplicar técnicas de **machine learning** para prever tendências de catálogo
 
-- **Incluir análises de avaliações e popularidade de títulos
+- Incluir análises de avaliações e popularidade de títulos
